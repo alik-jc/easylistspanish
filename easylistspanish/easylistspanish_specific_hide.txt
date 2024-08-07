@@ -17,6 +17,7 @@ elperiodicodemonagas.com.ve###ad-area-top
 freepik.es###adobe-pagination-mkt-copy
 diariocorreo.com.ec###advertisement
 lacapitalmdp.com###anpr
+separarensilabas.com###antiBannersGigantes
 cuevana3.nu###anuncioca
 elciudadanoweb.com###apsa-pop-hidden-img
 agencianova.com,novachaco.com###avisosDerechaContainer
@@ -111,6 +112,7 @@ mundo.com##.ad-banner
 okdiario.com##.ad-block
 bolavip.com,buenazo.pe,dalealbo.cl,elpopular.pe,eltiempo.com,futbolcentroamerica.com,hobbyconsolas.com,juanbeisbol.com,juanfutbol.com,lapaginamillonaria.com,larepublica.pe,libero.pe,redgol.cl,somosfanaticos.fans,wapa.pe##.ad-container
 3dgames.com.ar##.ad-wrapper
+lavozdegalicia.es##.ad_fixed_h
 vidasana.sv##.adblockweb
 paginasiete.bo##.adcontainer-portlet
 elperiodico.com,epe.es,sport.es,sumedico.com##.add
@@ -407,7 +409,7 @@ aguaita.cat,naciodigital.cat,pallarsdigital.cat,rubitv.cat,tarragonadigital.com#
 esdiario.com##.publi-top
 aguaita.cat,pallarsdigital.cat,pensem.cat,rubitv.cat,tarragonadigital.com##.publi_interpagina
 lawebdelprogramador.com##.publi_robapaginas
-0221.com.ar,areajugones.sport.es,cronicabalear.es,generacionuniversitaria.com.mx,highxtar.com,iberempleos.es,lavozdealmeria.com,meteored.cl,meteored.com.ar,meteored.com.py,meteored.mx,neomotor.com,pulzo.com,tiempo.com##.publicidad
+0221.com.ar,areajugones.sport.es,cronicabalear.es,elpais.com.co,generacionuniversitaria.com.mx,highxtar.com,iberempleos.es,lavozdealmeria.com,meteored.cl,meteored.com.ar,meteored.com.py,meteored.mx,neomotor.com,pulzo.com,tiempo.com##.publicidad
 fulltv.com.ar##.publicidad-728-top
 record.com.mx##.publicidadBoxBanner300x75
 diario.mx##.publicidad_basica
@@ -551,10 +553,12 @@ finanzasargy.com##a[target="_blank"][href^="https://ripio.go.link/"]
 rionegro.com.ar##ads-component
 lasexta.com##aside[class^="mod-ad-"]
 elnueve.com.ar##div[class*="_site-banner-top_"]
+computerhoy.com##div[class*="containerAdSlot"]
 diariodecuyo.com.ar##div[class*="dfp-async"]
 americatv.com.pe##div[class^="AdsSlot_"]
 autosusados.cl##div[class^="Autofact_"]
 autosusados.cl##div[class^="InterestingSection_"]
+computerhoy.com##div[class^="ad-catfish_"]
 autobild.es,businessinsider.es,computerhoy.com,hobbyconsolas.com,topgear.es##div[class^="ad-slot_"]
 elperiodic.com##div[class^="adcont_"]
 bemad.es,cuatro.com,divinity.es,energytv.es,factoriadeficcion.com,mtmad.es,niusdiario.es,telecinco.es,uppers.es,yasss.es##div[class^="adsGroupTop"]
